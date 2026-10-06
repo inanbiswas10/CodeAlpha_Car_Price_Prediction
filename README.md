@@ -1,7 +1,4 @@
-# 🚗 AutoValuate AI
-
-### Predictive Vehicle Resale & Ownership Sensitivity Lab
-
+# 🚗 AutoValuate AI - Used Car AI Valuation & Intelligence Platform
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
