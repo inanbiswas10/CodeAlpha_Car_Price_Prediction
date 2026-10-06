@@ -14,7 +14,7 @@ Developed as part of the **CodeAlpha Data Science Internship Program**
 
 ## 🌐 Live Demo
 
-👉 **[Launch AutoValuate AI](https://YOUR-APP-NAME.streamlit.app)**
+👉 **[Launch AutoValuate AI](https://auto-valuate-ai.streamlit.app/)**
 
 ---
 
